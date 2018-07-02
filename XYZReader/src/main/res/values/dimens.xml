@@ -6,7 +6,8 @@
 
     <dimen name="fab_elevation">6dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
-    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="fab_margin_bottom">16dp</dimen>
+    <dimen name="fab_margin_end">16dp</dimen>
     <dimen name="detail_photo_placeholder">112dp</dimen>
     <dimen name="toolbar_elevation">4dp</dimen>
     <dimen name="main_list_recycler_view_padding_bottom">28dp</dimen>
