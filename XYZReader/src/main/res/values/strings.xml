@@ -9,4 +9,7 @@
 
     <string name="up">Up</string>
 
+    <string name="detail_image_description">Detail image</string>
+    <string name="main_list_image_description">Main image</string>
+
 </resources>
