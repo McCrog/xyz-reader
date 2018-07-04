@@ -23,4 +23,6 @@
     <color name="photo_placeholder">#ccc</color>
     <color name="detail_meta_bar">#333</color>
     <color name="detail_article_byline">#8fff</color>
+    <color name="light_gray">#eeeeee</color>
+
 </resources>
